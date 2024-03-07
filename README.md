@@ -2,9 +2,9 @@
 
 
 
-- 👨 Sou Matheus André , 24 anos, Formado em Sistema de informação, Desenvolvedor Back-end, Procurando uma oportunidade de Junior/Trainne em Desenvolvimento,Dados.
+- 👨 Sou Matheus André ,Formado em Sistema de informação, Desenvolvedor de Software, com foco em back-end, Procurando uma oportunidade de Junior em Desenvolvimento,Dados.
 
-- Atualmente Estudando CLoud AWS.
+
 
 <h2>Contatos<h2>
 
