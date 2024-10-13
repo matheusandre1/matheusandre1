@@ -6,9 +6,10 @@
 
 ###
 
-<p align="left">Sobre mim :<br><br>Apaixonado por tecnologia. computação, resoluções de problema, etc.<br><br>
-  Conhecimento em : Engenharia de Software,Modelagem e Levantamento de Requisitos, Construção de WebServices.<br><br>
-  Estou em busca de uma oportunidade onde eu possa aplicar e aprimorar meus sólidos conhecimentos em computação, agregando valor significativo a uma equipe. E podendo expandir minhas competências profissionais e adquirir novas habilidades, colaborando efetivamente em um ambiente que fomente o aprendizado contínuo e a inovação.<br><br>💻 -  Formado em Sistema de informação.<br>🔁 - Aprendizado Contínuo de Desenvolvimento De Software.<br>📚 -  Atualmente estudo Engenharia de Software, Arquitetura de Software e web3 .<br>🎯 - Metas : Se Tornar um Software Enginner SRE / DevOps.</p>
+<p align="left">Desenvolvedor de Software<br><br>
+  Conhecimento em : Engenharia de Software, WebApis, MicroServices<br><br>
+  
+ 💻 -  Formado em Sistema de informação.<br>🔁 - Aprendizado Contínuo de Desenvolvimento De Software.<br>📚 -  Atualmente estudo Engenharia de Software, Arquitetura de Software e web3 .<br>🎯 - Metas : Se Tornar um Software Enginner SRE / DevOps.</p>
 
 ###
 
