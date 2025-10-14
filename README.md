@@ -1,14 +1,5 @@
-<p align="left">Olá👋  Tudo bem?</p>
 
-###
-
-<h3 align="left">Meu nome é Matheus André, Desenvolvedor de Software</h3>
-
-###
-
-
-  
- 💻 -  Formado em Sistema de informação.<br>🔁 - Aprendizado Contínuo de Desenvolvimento De Software.<br>📚 -  Atualmente estudo Engenharia de Software, Arquitetura de Software e web3 .<br>🎯 - Metas : Se Tornar um Software Enginner SRE / DevOps.</p>
+💻 -  Formado em Sistema de informação.<br>🔁 - Aprendizado Contínuo de Desenvolvimento De Software.<br>📚 -  Atualmente estudo Engenharia de Software, Arquitetura de Software e web3 .<br>🎯 - Metas : Se Tornar um Software Enginner SRE / DevOps.</p>
 
 ###
 
