@@ -9,7 +9,7 @@ I am a big fan of the Web3 and Blockchain world And Learning how to contribute t
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,dotnet,ts,go,docker,kubernetes,postgres,python,angular)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=java,spring,springboot,quarkus,golang,python,dotnet,docker,postgresql,kubernetes,mongodb)](https://skills.syvixor.com)
 
 [![An image of @matheusandre1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matheusandre1)](https://holopin.io/@matheusandre1)
 
