@@ -1,7 +1,7 @@
 
 # Hello
 
-I am Matheus André, Software Enginner, DevOps Engineer, SRE And Enthuasiast in Platfform Enginner
+I am Matheus André, Software Engineer, DevOps Engineer, SRE And Enthuasiast in Platfform Engineer
 
 Continuous study, with a strong focus on software architecture.
 
