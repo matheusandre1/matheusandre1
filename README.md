@@ -1,7 +1,5 @@
 Software Engineer, DevOps Engineer, SRE.
 
-Continuous study, with a strong focus on software architecture.
-
 ### Skills
 
 [![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=java,quarkus,spring,springboot,golang,python,dotnet,docker,postgresql,kubernetes,mongodb,angularjs)](https://skills.syvixor.com)
