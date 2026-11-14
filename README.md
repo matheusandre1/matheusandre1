@@ -1,11 +1,6 @@
-
-# Hello
-
-I am Matheus André, Software Engineer, DevOps Engineer, SRE And Enthuasiast in Platfform Engineer
+Software Engineer, DevOps Engineer, SRE.
 
 Continuous study, with a strong focus on software architecture.
-
-I am a big fan of the Web3 and Blockchain world And Learning how to contribute to open source.
 
 ### Skills
 
